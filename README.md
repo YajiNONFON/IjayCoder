@@ -19,7 +19,7 @@ Freelance backend developer based in Accra, Ghana. I build secure, scalable REST
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [Billing SaaS](https://apibill.intlineconnect.com/api/docs) | Complete invoicing system — quotes, contracts, invoices, receipts, audit logs | Node.js · TypeScript · Prisma · PostgreSQL | ✅ Live |
+| [Billing SaaS](https://apibill.yajidev.com/api/docs/) | Complete invoicing system — quotes, contracts, invoices, receipts, audit logs | Node.js · TypeScript · Prisma · PostgreSQL | ✅ Live |
 | [Mp Recharge](https://github.com/IjayCoder) | Mobile-first financial transaction platform — 100+ active users | Node.js · TypeScript · Next.js · React Native | ✅ Live |
 | [Ticket Management](https://github.com/IjayCoder/ticket-management) | Role-based ticket platform with JWT auth and email notifications | Node.js · TypeScript · Prisma · PostgreSQL | ✅ Live |
 | [SmartQueue](https://github.com/IjayCoder/smart-queue) | QR-based queue management system with real-time tracking | Node.js · Next.js · Firebase Firestore | ✅ Live |
@@ -62,7 +62,7 @@ Stripe   Paystack   FedaPay   Nodemailer   Hugging Face API   PDFKit
 The Billing SaaS API is fully documented and deployed in production.
 You can explore all endpoints, test authentication, and browse the complete API reference:
 
-**[apibill.intlineconnect.com/api/docs](https://apibill.intlineconnect.com/api/docs)**
+**[apibill.yajidev.com/api/docs](https://apibill.yajidev.com/api/docs/)**
 
 ---
 
@@ -70,7 +70,7 @@ You can explore all endpoints, test authentication, and browse the complete API 
 
 | | |
 |---|---|
-| Portfolio | [yajidev.intlineconnect.com](https://yajidev.intlineconnect.com) |
+| Portfolio | [yajidev.com](https://yajidev.com) |
 | LinkedIn | [linkedin.com/in/yajinonfon](https://linkedin.com/in/yajinonfon) |
 | Email | sonagnonyaji@gmail.com |
 | WhatsApp | +233 532 606 416 |
