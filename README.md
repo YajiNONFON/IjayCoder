@@ -20,11 +20,12 @@ Freelance backend developer based in Accra, Ghana. I build secure, scalable REST
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [Billing SaaS](https://apibill.yajidev.com/api/docs/) | Complete invoicing system — quotes, contracts, invoices, receipts, audit logs | Node.js · TypeScript · Prisma · PostgreSQL | ✅ Live |
-| [Mp Recharge](https://github.com/IjayCoder) | Mobile-first financial transaction platform — 100+ active users | Node.js · TypeScript · Next.js · React Native | ✅ Live |
-| [Ticket Management](https://github.com/IjayCoder/ticket-management) | Role-based ticket platform with JWT auth and email notifications | Node.js · TypeScript · Prisma · PostgreSQL | ✅ Live |
-| [SmartQueue](https://github.com/IjayCoder/smart-queue) | QR-based queue management system with real-time tracking | Node.js · Next.js · Firebase Firestore | ✅ Live |
-| [AI Summarizer](https://github.com/IjayCoder/summarizer) | AI-powered document summarizer using Hugging Face API | Node.js · TypeScript · Next.js | ⚙️ Built  |
-| [Order Management API](https://github.com/IjayCoder/order-management-api) | Complete order management REST API with product and inventory tracking | Node.js · TypeScript · Prisma · PostgreSQL | ⚙️ Built  |
+| [Mp Recharge](https://mprecharge.com) | Mobile-first financial transaction platform — 100+ active users | Node.js · TypeScript · Next.js · React Native | ✅ Live |
+| [Stockwise](https://stock.yajidev.com) | Mobile-first inventory management system | Node.js · TypeScript · Next.js · PostgreSQL  | ✅ Live |
+| [Ticket Management](https://github.com/YajiNONFON/ticket-management) | Role-based ticket platform with JWT auth and email notifications | Node.js · TypeScript · Prisma · PostgreSQL | ✅ Live |
+| [SmartQueue](https://github.com/YajiNONFON/smart-queue) | QR-based queue management system with real-time tracking | Node.js · Next.js · Firebase Firestore | ✅ Live |
+| [AI Summarizer](https://github.com/YajiNONFON/summarizer) | AI-powered document summarizer using Hugging Face API | Node.js · TypeScript · Next.js | ⚙️ Built  |
+| [Order Management API](https://github.com/YajiNONFON/order-management-api) | Complete order management REST API with product and inventory tracking | Node.js · TypeScript · Prisma · PostgreSQL | ⚙️ Built  |
 
 ---
 
