@@ -21,7 +21,7 @@ Freelance backend developer based in Accra, Ghana. I build secure, scalable REST
 |---|---|---|---|
 | [Billing SaaS](https://apibill.yajidev.com/api/docs/) | Complete invoicing system — quotes, contracts, invoices, receipts, audit logs | Node.js · TypeScript · Prisma · PostgreSQL | ✅ Live |
 | [Mp Recharge](https://mprecharge.com) | Mobile-first financial transaction platform — 100+ active users | Node.js · TypeScript · Next.js · React Native | ✅ Live |
-| [Stockwise](https://stock.yajidev.com) | Mobile-first inventory management system | Node.js · TypeScript · Next.js · PostgreSQL  | ✅ Live |
+| [Stockwise](https://stockapi.yajidev.com/api/docs) | Mobile-first inventory management system | Node.js · TypeScript · Next.js · PostgreSQL  | ✅ Live |
 | [Ticket Management](https://github.com/YajiNONFON/ticket-system) | Role-based ticket platform with JWT auth and email notifications | Node.js · TypeScript · Prisma · PostgreSQL | ✅ Live |
 | [AI Summarizer](https://github.com/YajiNONFON/summarizer) | AI-powered document summarizer using Hugging Face API | Node.js · TypeScript · Next.js | ⚙️ Built  |
 | [Order Management API](https://github.com/YajiNONFON/order-management-api) | Complete order management REST API with product and inventory tracking | Node.js · TypeScript · Prisma · PostgreSQL | ⚙️ Built  |
